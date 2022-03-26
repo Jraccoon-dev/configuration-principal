@@ -8,3 +8,7 @@ this is my configuration of applications
 - zsh
 - alacritty
 - picom
+
+Ejecute picom:
+
+> picom --experimental-backedns -b
